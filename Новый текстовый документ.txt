@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Списки в HTML</title>
+</head>
+<body>
+
+  <h2>Неупорядоченный список</h2>
+  <ul>
+    <li>Кофе</li>
+    <li>Чай</li>
+    <li>Сок</li>
+  </ul>
+
+  <h2>Упорядоченный список</h2>
+  <ol>
+    <li>Открыть файл</li>
+    <li>Редактировать</li>
+    <li>Сохранить</li>
+  </ol>
+
+</body>
+</html>
